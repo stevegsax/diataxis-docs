@@ -1,46 +1,46 @@
 # Diataxis Summary and Key Principles
 
-The Diátaxis framework systematically organizes documentation into four distinct types based on two fundamental dimensions:
+The Diátaxis framework systematically organizes documentation into four distinct types based on two fundamental dimensions. For a comprehensive introduction, see the [Diátaxis overview](../diataxis-documentation-framework/index.rst).
 
 ## Core Principle
-Documentation serves different user needs at different times. The framework emerges from two dimensions:
+Documentation serves different user needs at different times. The framework emerges from [two dimensions](../diataxis-documentation-framework/foundations.rst):
 
 - **Action vs. Cognition**: Whether documentation informs what users *do* (practical) or what they *know* (theoretical)
 - **Acquisition vs. Application**: Whether users are *learning* their craft (study) or *applying* it (work)
 
 ## Key Principles
 
-1. **Four Distinct Types**: Documentation must be strictly separated into tutorials, how-to guides, reference, and explanation
+1. **Four Distinct Types**: Documentation must be strictly separated into [tutorials](../diataxis-documentation-framework/tutorials.rst), [how-to guides](../diataxis-documentation-framework/how-to-guides.rst), [reference](../diataxis-documentation-framework/reference.rst), and [explanation](../diataxis-documentation-framework/explanation.rst)
 2. **User-Centric Design**: Each type serves a specific user need at a specific time
-3. **Clear Boundaries**: Mixing documentation types creates confusion and reduces effectiveness
-4. **Complete at Every Stage**: Documentation should be complete but never finished, like a living organism
+3. **Clear Boundaries**: Mixing documentation types creates confusion and reduces effectiveness (see [The map](../diataxis-documentation-framework/map.rst))
+4. **Complete at Every Stage**: Documentation should be complete but never finished, like a living organism (see [Workflow](../diataxis-documentation-framework/how-to-use-diataxis.rst))
 5. **Iterative Development**: Work in small steps, improving documentation continuously
 6. **Organic Structure**: Let structure emerge from well-formed content rather than top-down planning
 
 # Standard Components
 
-## 1. Tutorials (Learning-oriented)
+## 1. [Tutorials](../diataxis-documentation-framework/tutorials.rst) (Learning-oriented)
 
 - **Purpose**: Teaching through hands-on experience
 - **User Need**: Learning and acquiring skills
 - **Characteristics**: Step-by-step guidance, reliable outcomes, minimal explanation
 - **Location**: `/docs/tutorials/`
 
-## 2. How-to Guides (Goal-oriented)
+## 2. [How-to Guides](../diataxis-documentation-framework/how-to-guides.rst) (Goal-oriented)
 
 - **Purpose**: Helping users accomplish specific tasks
 - **User Need**: Solving real-world problems
 - **Characteristics**: Task-focused, assumes competence, adaptable instructions
 - **Location**: `/docs/how-to/`
 
-## 3. Reference (Information-oriented)
+## 3. [Reference](../diataxis-documentation-framework/reference.rst) (Information-oriented)
 
 - **Purpose**: Providing technical descriptions and facts
 - **User Need**: Accurate information for work
 - **Characteristics**: Neutral descriptions, structured like the product, authoritative
 - **Location**: `/docs/reference/`
 
-## 4. Explanation (Understanding-oriented)
+## 4. [Explanation](../diataxis-documentation-framework/explanation.rst) (Understanding-oriented)
 
 - **Purpose**: Providing context and deepening understanding
 - **User Need**: Understanding the bigger picture
@@ -49,11 +49,15 @@ Documentation serves different user needs at different times. The framework emer
 
 ## Supporting Elements
 
-- **The Diátaxis Compass**: A decision tool for categorizing content
+- **[The Diátaxis Compass](../diataxis-documentation-framework/compass.rst)**: A decision tool for categorizing content
 - **Cross-references**: Links between related content across types
-- **Navigation structure**: Clear paths for users to find what they need
+- **Navigation structure**: Clear paths for users to find what they need (see [Complex hierarchies](../diataxis-documentation-framework/complex-hierarchies.rst))
 
 # Techniques
+
+For detailed discussions on the distinctions between documentation types, see:
+- [Tutorials vs How-to guides](../diataxis-documentation-framework/tutorials-how-to.rst)
+- [Reference vs Explanation](../diataxis-documentation-framework/reference-explanation.rst)
 
 ## Tutorial Techniques
 
@@ -97,10 +101,16 @@ Documentation serves different user needs at different times. The framework emer
 
 ## General Implementation Techniques
 
-1. **The Diátaxis Compass** - Use the decision matrix to categorize content
-2. **Iterative workflow** - Choose → Assess → Decide → Do → Repeat
+1. **[The Diátaxis Compass](../diataxis-documentation-framework/compass.rst)** - Use the decision matrix to categorize content
+2. **[Iterative workflow](../diataxis-documentation-framework/how-to-use-diataxis.rst)** - Choose → Assess → Decide → Do → Repeat
 3. **Cross-linking** - Connect related content across types
-4. **User journey mapping** - Understand typical progression paths
+4. **[User journey mapping](../diataxis-documentation-framework/map.rst)** - Understand typical progression paths
 5. **Language patterns** - Use appropriate voice for each type
 6. **Continuous refinement** - Documentation is never finished
 7. **Organic growth** - Let structure emerge from content
+
+## Further Reading
+
+- [Understanding Diátaxis Theory](../diataxis-documentation-framework/theory.rst)
+- [Documentation Quality](../diataxis-documentation-framework/quality.rst)
+- [Getting Started with Diátaxis](../diataxis-documentation-framework/start-here.rst)

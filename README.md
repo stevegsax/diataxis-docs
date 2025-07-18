@@ -8,7 +8,5 @@ project.
 
 - A copy of the original Diataxis project documentation is stored in subdirectory 
 `diataxis-documentation-framework/`. 
-- Do not modify any files in `diataxis-documentation-framework/`.
-- Do not add any new files to directory `diataxis-documentation-framework/`. 
 - A summary of the Diataxis principles is in [specs/design.md](specs/design.md)`.
 
