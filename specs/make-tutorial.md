@@ -1,4 +1,10 @@
-# TODO: Create a Diátaxis Tutorial
+# Make A Diataxis Tutorial
+
+This file contains a series of steps that should be followed when creating or updating a tutorial following the Diataxis principles.
+
+## Steps
+
+### TODO: Create a Diátaxis Tutorial
 
 Use this checklist when designing a new tutorial so that it follows the Diátaxis principles. Each task is an action to complete or verify.
 
