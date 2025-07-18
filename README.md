@@ -1,8 +1,14 @@
-The purpose of this project is to digest the guidelines of the 
-[Diataxis](https://github.com/evildmp/diataxis-documentation-framework.git) project and 
-identify techniques that can be applied to our projects.
+# Generate User Documentation Using Diataxis Principles
 
-A local copy of the github repository is stored in `/Users/stevengreenberg/repos-other/diataxis-documentation-framework`.
+The purpose of this project is to develop tools and methodologies that allow
+us to automatically generate a set of user documentation that follows the
+principles of the 
+[Diataxis](https://github.com/evildmp/diataxis-documentation-framework.git) 
+project.
+
+- A copy of the original Diataxis project documentation is stored in subdirectory 
+`diataxis-documentation-framework/`. 
+- Do not modify any files in `diataxis-documentation-framework/`.
 
 ## Tasks 
 
